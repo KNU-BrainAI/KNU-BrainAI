@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This github is for our lab stuff including lab website, codes, research projects, and etc. 
 
 <!--
 **KNU-BrainAI/KNU-BrainAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
