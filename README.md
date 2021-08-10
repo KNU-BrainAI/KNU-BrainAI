@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
-This github is for our lab stuff including lab website, codes, research projects, and etc. <br/>
+This github is for our lab stuff including lab website, code, research projects, and etc. <br/>
 Please visit our <a href="https://knu-brainai.github.io/">Lab Website</a> to get more information.
 
 ✨ We are currently working on undergraduate capstone projects in a GitHub Organization.<br/>
-Please visit our <a href="https://github.com/KNU-BrainAI-Capstone2021">organization</a> for more information.
+Please visit our <a href="https://github.com/KNU-BrainAI-Capstone2021">Organization</a> to get more information.
 
 <!--
 **KNU-BrainAI/KNU-BrainAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
